@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    overflow-x: hidden;
+    font-family: 'Unbounded', cursive;
+}
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+}
+.AboutImage img {
+    height: 400px;
+}
+.team .row .card-body img {
+    width:100px;
+    height:100px;
+    background-size: cover;
+}
+
+.ct-img {
+    height: 400px;
+}
